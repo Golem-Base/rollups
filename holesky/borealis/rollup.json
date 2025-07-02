@@ -1,16 +1,16 @@
 {
   "genesis": {
     "l1": {
-      "hash": "0xdcaf4f1c0aa0e46caf373081cfa41eee504843dda6b447010f5567ff432a91b9",
-      "number": 1914401
+      "hash": "0xf403b88e3d52e0f9cbb9ce8601642d30112965c2fc66e890d73593f8d9466c70",
+      "number": 3203049
     },
     "l2": {
-      "hash": "0xf66e315b2b89b9684bb54552e8f8af9cd8e65394d69d1dff0100f83790e206a4",
+      "hash": "0x868256c1a243cfda19194eb038e8200cc03d214c0d62e6756b327afd7d2c3494",
       "number": 0
     },
-    "l2_time": 1748881642,
+    "l2_time": 1751458938,
     "system_config": {
-      "batcherAddr": "0x5ba9382b05d677c8610a4c145e7a566be723a9cd",
+      "batcherAddr": "0x9f489c554817bcc7a588dacfc48bc0357466d2df",
       "overhead": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "scalar": "0x010000000000000000000000000000000000000000000000000c5fc500000558",
       "gasLimit": 60000000,
@@ -22,7 +22,7 @@
   "seq_window_size": 3600,
   "channel_timeout": 300,
   "l1_chain_id": 393530,
-  "l2_chain_id": 700000,
+  "l2_chain_id": 2,
   "regolith_time": 0,
   "canyon_time": 0,
   "delta_time": 0,
@@ -30,10 +30,10 @@
   "fjord_time": 0,
   "granite_time": 0,
   "holocene_time": 0,
-  "batch_inbox_address": "0x001b3244777a00727af2f957bb54f453529b131c",
-  "deposit_contract_address": "0x79f95c03dab4fa9a5a24d78df787fcf1bd33b403",
-  "l1_system_config_address": "0x6060b4f51aee564793b131a09d87884604974e08",
-  "protocol_versions_address": "0x131b2e2416352c25db225579a33d65c423f318a1",
+  "batch_inbox_address": "0x00405787fa12a823e0f2b7631cc41b3ba8828b33",
+  "deposit_contract_address": "0x73e15ab2f92dc45f5e53781d17834fa49aa4af26",
+  "l1_system_config_address": "0x4f623a5a60735920e667bc59cf63a3ccdfa7b22b",
+  "protocol_versions_address": "0x395dab99b946670d3a122ff629ae6024b70d60f3",
   "chain_op_config": {
     "eip1559Elasticity": 6,
     "eip1559Denominator": 50,
