@@ -5,9 +5,9 @@
     "configType": "custom",
     "l1ChainID": 560048,
     "superchainRoles": {
-      "proxyAdminOwner": "0x127bfa63d7cb03edffd8e0c77b8056f02818f585",
-      "protocolVersionsOwner": "0x127bfa63d7cb03edffd8e0c77b8056f02818f585",
-      "guardian": "0x127bfa63d7cb03edffd8e0c77b8056f02818f585"
+      "proxyAdminOwner": "0x813173eEc4dc3d1F1cB639b86d8Fcba90b25DAc5",
+      "protocolVersionsOwner": "0x813173eEc4dc3d1F1cB639b86d8Fcba90b25DAc5",
+      "guardian": "0x813173eEc4dc3d1F1cB639b86d8Fcba90b25DAc5"
     },
     "fundDevAccounts": false,
     "useInterop": false,
@@ -23,9 +23,9 @@
         "eip1559Denominator": 50,
         "eip1559Elasticity": 6,
         "roles": {
-          "l1ProxyAdminOwner": "0x127bfa63d7cb03edffd8e0c77b8056f02818f585",
+          "l1ProxyAdminOwner": "0x813173eEc4dc3d1F1cB639b86d8Fcba90b25DAc5",
           "l2ProxyAdminOwner": "0x127bfa63d7cb03edffd8e0c77b8056f02818f585",
-          "systemConfigOwner": "0x127bfa63d7cb03edffd8e0c77b8056f02818f585",
+          "systemConfigOwner": "0x813173eEc4dc3d1F1cB639b86d8Fcba90b25DAc5",
           "unsafeBlockSigner": "0xe90b22e02c9a2fe5fa4b4b27d302e50e739d7f6c",
           "batcher": "0x4c60bc2f1eb7a1d4378bc599e76d98adf3922edb",
           "proposer": "0xe8d044af59ec5e4ae98f147a939f79603049f139",
@@ -56,7 +56,7 @@
     "protocolVersionsImplAddress": "0x37e15e4d6dffa9e5e320ee1ec036922e563cb76c"
   },
   "implementationsDeployment": {
-    "opcmAddress": "0x40841c65fb56d6c50499c6b7da76058a601260a2",
+    "opcmAddress": "0x440be04f63856165ab9b9d1d13c803ef57c9380e",
     "delayedWETHImplAddress": "0x5e40b9231b86984b5150507046e354dbfbed3d9e",
     "optimismPortalImplAddress": "0x2d7e764a0d9919e16983a46595cfa81fc34fa7cd",
     "preimageOracleSingletonAddress": "0x1fb8cdfc6831fc866ed9c51af8817da5c287add3",
