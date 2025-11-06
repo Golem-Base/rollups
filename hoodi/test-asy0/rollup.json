@@ -1,16 +1,16 @@
 {
   "genesis": {
     "l1": {
-      "hash": "0xa4f17cfc5505cd7f324f36fd82315f26bab9019e09822a36eb3043a461dbe6aa",
-      "number": 76131
+      "hash": "0x225518ebf61abd1622a433e2e2808d14099e7a54b5dc300fbd02d4212fe9a078",
+      "number": 76255
     },
     "l2": {
-      "hash": "0xd39855d26f8e04fb6c5142aa5dc0f8d8f55741d1f1c2daeff7673679269fecf1",
+      "hash": "0xe943ad218cd765438114a57efc7a6d2142b9860ad9803c009e75a1e046bff818",
       "number": 0
     },
-    "l2_time": 1762464108,
+    "l2_time": 1762464604,
     "system_config": {
-      "batcherAddr": "0xdbba61d61fb6955716b12b5a3ff0555c0dce30f2",
+      "batcherAddr": "0x050afa53bb2150253d370b8966e12bd32960cbc8",
       "overhead": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "scalar": "0x010000000000000000000000000000000000000000000000000c5fc500000558",
       "gasLimit": 60000000,
@@ -33,9 +33,9 @@
   "holocene_time": 0,
   "isthmus_time": 0,
   "batch_inbox_address": "0x00522040696411f5aeb36ba27293231529cbf769",
-  "deposit_contract_address": "0x135527d4156fd233202c79a430417c5cd4e9d7c2",
-  "l1_system_config_address": "0x1d3d22622d543c70994e98433423e3a7ee4abeb0",
-  "protocol_versions_address": "0xa36bc9969d3c7c68f253de037d7e3f260400817e",
+  "deposit_contract_address": "0x45825c80926673c2051766561df73794aa0053c1",
+  "l1_system_config_address": "0xa5509ce3ea5914cda401c6b30b9365e61d6b61d8",
+  "protocol_versions_address": "0xb4adbcad74e0797ce4c3a16e467758fb29b4686d",
   "chain_op_config": {
     "eip1559Elasticity": 6,
     "eip1559Denominator": 50,
